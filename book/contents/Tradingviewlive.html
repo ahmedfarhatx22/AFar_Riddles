@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <script type="text/javascript" src="https://s3.tradingview.com/tv.js"></script>
+</head>
+<body>
+  <div id="tv_chart_container"></div>
+
+  <script>
+    new TradingView.widget(
+      {
+        "width": 1000,
+        "height": 600,
+        "symbol": "AAPL", // Set the symbol you want to display
+        "interval": "1",   // Set the chart interval (e.g., "1" for 1 minute)
+        "theme": "Light",  // Choose the theme ("Light" or "Dark")
+        "container_id": "tv_chart_container"
+      }
+    );
+  </script>
+</body>
+</html>

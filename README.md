@@ -1,2 +1,3 @@
-# AFar_Structural_Engineering
-Welcome to the "Structural Engineering Helper" Jupyter Book! This comprehensive resource is designed to assist structural engineers, students, and enthusiasts in the field of structural engineering with a collection of helpful Python codes, tutorials, and documentation.
+# Prerequisite knowledge for the Civil Engineering Master
+
+This repository hosts the source code for the website on Prerequisite knowledge for the Civil Engineering Master @ TU Delft. The website is hosted at https://tudelft-citg.github.io/pre-for-cem.
