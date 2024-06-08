@@ -1,6 +1,6 @@
-title: Prerequisite Knowledge for Civil Engineering Master
-author: TU Delft, Faculty of Civil Engineering and Geosciences, project team PRE-for-CEM
-logo: images/logo.png
+title: Ahmed_Farahat_Riddles 
+author: Ahmed Farahat
+
 
 execute:
   execute_notebooks: auto
@@ -13,7 +13,7 @@ bibtex_bibfiles:
   - references.bib
 
 repository:
-  url: https://github.com/TUDelft-CITG/pre-for-cem
+  url: https://github.com/ahmedfarhatx22/AFar_Structural_Engineering
   path_to_book: book
   branch: main
 

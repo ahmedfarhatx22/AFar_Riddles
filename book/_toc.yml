@@ -2,5 +2,5 @@ format: jb-book
 root: contents/intro
 
 chapters:
-- file: contents/Education_day_nov_2023
+- file: contents/riddle1.ipynb
 
